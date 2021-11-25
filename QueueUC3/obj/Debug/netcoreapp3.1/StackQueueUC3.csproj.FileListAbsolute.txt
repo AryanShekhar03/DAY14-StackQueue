@@ -1,0 +1,13 @@
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\bin\Debug\netcoreapp3.1\StackQueueUC3.exe
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\bin\Debug\netcoreapp3.1\StackQueueUC3.deps.json
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\bin\Debug\netcoreapp3.1\StackQueueUC3.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\bin\Debug\netcoreapp3.1\StackQueueUC3.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\bin\Debug\netcoreapp3.1\StackQueueUC3.dll
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\bin\Debug\netcoreapp3.1\StackQueueUC3.pdb
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\obj\Debug\netcoreapp3.1\StackQueueUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\obj\Debug\netcoreapp3.1\StackQueueUC3.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\obj\Debug\netcoreapp3.1\StackQueueUC3.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\obj\Debug\netcoreapp3.1\StackQueueUC3.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\obj\Debug\netcoreapp3.1\StackQueueUC3.dll
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\obj\Debug\netcoreapp3.1\StackQueueUC3.pdb
+C:\Users\Shivam Shekhar\source\Day 14 Stack and queue\StackQueueUC3\obj\Debug\netcoreapp3.1\StackQueueUC3.genruntimeconfig.cache
